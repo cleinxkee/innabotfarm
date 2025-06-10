@@ -1,0 +1,1 @@
+Ez a letöltött fájl csak példa.
